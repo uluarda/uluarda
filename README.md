@@ -1,4 +1,5 @@
 ## Hi there 👋
+I am Arda Ulu. I am a freshman at the Department of Computer Engineering at Bilkent University.
 
 <!--
 **uluarda/uluarda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
